@@ -1,4 +1,5 @@
 <img src="https://www.gravatar.com/avatar/3bf90e6c055b9bf47a2d835e90d67e60">
+
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> i'm just another software developer on earth 🌍 
 
 I like solving problems :
@@ -7,7 +8,10 @@ I like solving problems :
 
 👯 I have some ideas of projects. You can check [angelyzer](https://github.com/meyacine/angelyzer) and [ts-typed](https://github.com/meyacine/ts-typed)
 
-📫 How to reach me: you can email me on my.meddah@gmail.com
+### Connect with me 📫 
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/meyacine)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yacine-meddah-58369984/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:my.meddah@gmail.com)
 
 This is the place where I opensource stuff and break things :rofl:
 
